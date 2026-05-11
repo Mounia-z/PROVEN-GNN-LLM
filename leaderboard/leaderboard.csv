@@ -1,0 +1,18 @@
+username,timestamp_utc,team,run_id,type,model,macro_f1,accuracy,precision,recall
+Muhammad0isah,2026-03-05 11:32:20 UTC,Muhammad Isah,gat_v2,human,GAT,0.839366,0.892283,0.811475,0.692308
+idrees11,2026-03-06 07:27:38 UTC,Mohammad Idrees Bhat,example_run_id,human,GAT,0.841399,0.889068,0.768116,0.741259
+jawa-23,2026-03-07 14:40:18 UTC,Jawa Habib,1,human,GAT,0.842985,0.885852,0.733766,0.79021
+Tamiru-Alemnew,2026-03-07 15:13:02 UTC,Tamiru,run_1,human,GAT,0.790873,0.847267,0.653846,0.713287
+Sargam1412,2026-03-07 16:23:55 UTC,Sargam_Goyal,1,human,GAT+GraphSMOTE,0.435059,0.770096,0.0,0.0
+AiIkram,2026-03-14 10:58:58 UTC,AIkram,run_1,human,GAT,0.840593,0.889068,0.772059,0.734266
+Murad-Hossen,2026-03-23 18:54:16 UTC,Murad,run_01,human,GATv2,0.863547,0.906752,0.829457,0.748252
+Mubarraqqq,2026-03-23 19:41:24 UTC,Mubaraq,run_001,human,Graph Transformer,0.760764,0.844051,0.705357,0.552448
+hadilaff,2026-03-26 08:38:06 UTC,hadil,run_1774513606,human,GATv2 with GlobalAttention and ClassWeights,0.751767,0.800643,0.546798,0.776224
+gururgg,2026-04-03 15:25:59 UTC,gururgg,run_01,human,GAT,0.870954,0.909968,0.817518,0.783217
+NoorMajdoub,2026-04-04 14:49:45 UTC,nourmaj,23235,human,GAT,0.814663,0.864952,0.690323,0.748252
+VinitSingroha,2026-04-04 16:11:27 UTC,VinitSingroha,,human,GAT,0.764679,0.855305,0.784946,0.51049
+faranbutt,2026-04-04 22:34:35 UTC,faranbutt,run 01,human,GCN,0.833237,0.884244,0.762963,0.72028
+bjayadikary,2026-04-05 03:32:12 UTC,Bijay,,human,GraphSage,0.900149,0.930868,0.873134,0.818182
+RosePY,2026-04-05 07:32:05 UTC,Rosa PY,,human,GAT,0.833734,0.890675,0.826087,0.664336
+KEMPEGUY,2026-04-09 07:43:45 UTC,Peguy,run_01,human,GCN,0.747508,0.813505,0.583851,0.657343
+tasneem-mselim,2026-04-11 09:32:09 UTC,Tasneem,run_01,human,GCN,0.724892,0.766881,0.495763,0.818182
