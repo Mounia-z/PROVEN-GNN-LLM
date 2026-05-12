@@ -1,1 +1,2 @@
 username,timestamp_utc,team,run_id,type,model,macro_f1,accuracy,precision,recall
+SanaeZR,2026-05-12 22:34:56 UTC,agent_gnn,run_001,llm-only,deterministic-no-download-gnn-prior,0.502585,0.622186,0.235632,0.286713
