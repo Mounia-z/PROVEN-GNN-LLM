@@ -1,0 +1,7 @@
+{
+  "team": "agent_gnn",
+  "run_id": "readme_recommended_gnn_v1",
+  "type": "llm-only",
+  "model": "PyG GCN when parquet graph data is present",
+  "notes": "README/starter code uses torch-geometric GCN; this checkout lacks train_data.parquet/test_data.parquet, so no-download fallback was required."
+}
