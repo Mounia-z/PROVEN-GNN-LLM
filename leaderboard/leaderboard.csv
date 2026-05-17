@@ -4,3 +4,4 @@ randomuser1194,2026-05-13 14:51:12 UTC,DeepSeek-v4-pro,run_03,llm-only,GINEConv,
 Murad-Hossen,2026-05-17 04:26:06 UTC,LLM_Claude_Opus_47,run_claude_47,llm-only,GINEConv,0.781156,0.848875,0.684211,0.636364
 RosePY,2026-05-17 08:00:54 UTC,llm_llama33_70b,1,llm-only,GCN,0.726584,0.79582,0.548193,0.636364
 Murad-Hossen,2026-05-17 14:51:41 UTC,LLM_Gemini_25_Pro,run_gemini_25_pro,llm-only,GATv2,0.755503,0.861736,0.913043,0.440559
+faranbutt,2026-05-17 16:45:58 UTC,Gemini-3-Flash,run_01,llm-only,Graph Attention Network (GAT),0.810932,0.869775,0.734848,0.678322
